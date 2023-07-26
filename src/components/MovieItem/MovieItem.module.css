@@ -1,0 +1,10 @@
+.movie {
+  list-style: none;
+  text-decoration: none;
+  color: #032541;
+  font-size: large;
+  display: flex;
+}
+.movie:hover {
+  font-weight: 600;
+}
