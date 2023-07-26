@@ -1,0 +1,13 @@
+.item {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  color: #032541;
+}
+.name {
+  font-size: large;
+  font-weight: bold;
+}
+.text {
+  font-size: medium;
+}
